@@ -26,4 +26,3 @@ Simple AES is a 128-bit ECB (Electric Code Book) encryption algorithm.
 
 ##Author
 -Justine Gausin
--Assignment 5
